@@ -1,5 +1,4 @@
 env
 secrets.py
-tg_bot_config.py
-tg_bot_config.py
-tg_bot_config.py
+config_tg_bot.py
+__pycache__

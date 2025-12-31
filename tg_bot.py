@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
-from tg_bot_config import BOT_TOKEN
+from config_tg_bot import BOT_TOKEN
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO)
