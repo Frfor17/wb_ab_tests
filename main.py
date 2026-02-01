@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import requests
-from secrets import WB_API_TOKEN
+from my_secrets import WB_API_TOKEN
 
 app = FastAPI()
 
